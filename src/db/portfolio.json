@@ -1,0 +1,43 @@
+[
+{
+    "title": "Coding Quiz",
+    "summary": "Coding quiz that allows you to test your knowledge of different languages and concepts",
+    "link": "https://gordyclint.github.io/Code_Quiz/",
+    "image": "/assets/images/portfolio/codecode.jpg"
+},
+
+{
+    "title": "Eat Da Burger",
+    "summary": "Eat-Da-Burger! is a restaurant app MySQL, Node, Express, Handlebars and a homemade ORM that lets users input the names of burgers they'd like to eat.",
+    "link": "https://quiet-earth-00448.herokuapp.com/",
+    "image": "/assets/images/portfolio/burger.jpg"
+},
+
+{
+    "title": "Fitness Tracker",
+    "summary": "An app using Heroku that allows a consumer to reach their fitness goals by tracking their workout progress.",
+    "link": "https://mighty-thicket-54997.herokuapp.com/?id=5e716a629810390017d9a1d5",
+    "image": "/assets/images/portfolio/fitness-2.jpg"
+},
+
+{
+    "title": "Work Scheduler",
+    "summary": "A work scheduler that allows you to make notes throughout the day.",
+    "link": "https://gordyclint.github.io/Work_Scheduler/",
+    "image": "/assets/images/portfolio/work-scheduler.jpg"
+},
+
+{
+    "title": "Password Generator",
+    "summary": "A password generator that allows users to create custom passwords of their preference.",
+    "link": "https://gordyclint.github.io/Password-Generator/",
+    "image": "/assets/images/portfolio/password.jpg"
+},
+{
+    "title": "Weather Dashboard",
+    "summary": "Weather dashboard that allows you to find the weather of certain areas over a five day forecast.",
+    "link": "https://gordyclint.github.io/weather-dash-api/",
+    "image": "/assets/images/portfolio/weather-2.png"
+}
+
+]
