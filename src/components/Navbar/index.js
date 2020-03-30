@@ -11,11 +11,11 @@ import Button from 'react-bootstrap/Button';
 function NavBar() {
     return (
         <Navbar bg="primary" variant="dark">
-            <Navbar.Brand href="#home">Clint Gordy</Navbar.Brand>
+            <Navbar.Brand href="/about">Clint Gordy</Navbar.Brand>
             <Nav className="mr-auto">
-                <Nav.Link href="#home">About</Nav.Link>
-                <Nav.Link href="#portfolio">Portfolio</Nav.Link>
-                <Nav.Link href="#contact">Contact</Nav.Link>
+                <Nav.Link href="/about">About</Nav.Link>
+                <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+                <Nav.Link href="/contact">Contact</Nav.Link>
             </Nav>
             <Form inline>
                 <FormControl

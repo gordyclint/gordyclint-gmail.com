@@ -7,8 +7,7 @@ function PortfolioCard() {
     return (
         <div className="container">
             <div className="row centered" >
-                {portfolio.map((portfolio, index) => {
-                    console.log(index);
+                {portfolio.map((portfolio) => {
                     return (
                         <div className="col-sm-4 col-md-4">
                             <Card {...portfolio} />
